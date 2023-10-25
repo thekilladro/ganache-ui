@@ -2,7 +2,7 @@
     "dependencies": {
         "@ganache/filecoin": "0.1.5",
         "@truffle/config": "1.2.17",
-        "@truffle/decoder": "3.0.16",
+        "@truffle/decoder": "6.1.5",
         "electron": "12.0.2",
         "electron-fetch": "1.7.3",
         "fs-extra": "9.0.0",
